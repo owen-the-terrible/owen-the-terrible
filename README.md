@@ -6,8 +6,6 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owen-the-terrible&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=owen-the-terrible&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owen-the-terrible&theme=github_dark&utcOffset=8)
 <!---
 owen-the-terrible/owen-the-terrible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
