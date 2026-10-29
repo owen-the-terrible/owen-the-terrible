@@ -1,7 +1,23 @@
-- 👋 Hi, I’m @owen-the-terrible
-- 👀 I’m interested in Music, Food, Code and code related activities, and picking up heavy things just to put them back down again.
-- 🌱 I love what i do
+# Owen
 
+**Software Engineer** `//` Music Enthusiast `//` Professional Overthinker
+
+Building things, breaking things, figuring out why they broke, and occasionally remembering to take a break.
+
+---
+
+### `git commit -m "keep moving forward"`
+
+I believe people are defined more by what they choose to do next than by what they've done before.
+
+The past is part of the history, it doesn't have to dictate the direction.
+Open the door to everyone, give the responsibility to those who've earned it.
+
+> **You can't rewrite every chapter, but you can decide how the story continues.**
+
+---
+
+`Currently building:` Better software, better habits, and a future worth looking forward to.
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owen-the-terrible&theme=github_dark)
